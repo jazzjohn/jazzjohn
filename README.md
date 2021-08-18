@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Samuel Jazz John</h1>
-<h3 align="center">I'm student, web designer and developer from India</h3>
+
 
 
 <p align="left"> <a href="https://twitter.com/samueljazzjohn1" target="blank"><img src="https://img.shields.io/twitter/follow/samueljazzjohn1?logo=twitter&style=for-the-badge" alt="samueljazzjohn1" /></a> </p>
 
-- :book: I'm currently pursuing MCA at [CEV](https://www.cev.ac.in/en/) 
+### :mortar_board: I'm an MCA student at [CEV](https://www.cev.ac.in/en/)
+
+
 - 🌱 I’m currently learning everything related to tech
 - 👯 I’m looking to collaborate with other developers
 - :alien: I'm here to help you in coding
 - ⚡ Fun fact: I love to play guitar and piano
 - 💬 Ask me about **reactjs, nodejs, java and python**
-
 - 📫 How to reach me **samueljazzjohn@gmail.com**
 
 <br>
@@ -36,3 +37,7 @@
 <br>
 
 [![Samuel j's GitHub stats](https://github-readme-stats.vercel.app/api?username=jazzjohn&show_icons=true&theme=tokyonight)](https://github.com/jazzjohn/github-readme-stats)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzjohn&theme=tokyonight)
